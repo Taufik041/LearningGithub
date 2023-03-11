@@ -7,7 +7,14 @@ int main()
     printf("Enter angles(in degrees) : \n");
     scanf("%f %f %f",&a,&b,&c);
     sum = a+b+c;
-    if(sum == 180)
+
+    if(a<=0 || b<=0 || c <=0)
+    {
+        printf("Invalid input...");
+    }
+    else
+    {
+        if(sum == 180)
     {
         printf("The triangle is valid.");
 
@@ -15,5 +22,6 @@ int main()
     else
     {
         printf("The triangle is not valid.");
+    }
     }
 }
