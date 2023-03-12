@@ -3,7 +3,7 @@ int main()
 {
     int a,b,n,sum,sub,mul,div,mod;
     n=1;
-    printf("enter two number");
+    printf("enter two number ");
     scanf("%d%d",&a,&b);
     switch(n)
     {
@@ -21,6 +21,5 @@ int main()
         printf("thankyou bhaiya");
 
     }
-
-    return 0;
+return 0;
 }

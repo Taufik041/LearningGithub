@@ -14,5 +14,5 @@ int main()
     else if (x == 0)
         printf("%d is zero", x);
  
-    return 0;
+  return 0;
 }

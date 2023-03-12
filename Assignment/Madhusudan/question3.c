@@ -13,5 +13,4 @@ int main()
     } while (i>0);
     printf("sum of digits %d",sum);
 
-    
 }
