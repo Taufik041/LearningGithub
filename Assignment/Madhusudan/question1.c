@@ -7,7 +7,7 @@ int main()
     {
         
         if (i%15 == 0)       
-            printf ("%d\n");   
+            printf ("fizzBuzz\n");   
         else if (i%3 == 0)   
             printf("Fizz\n");               
         else if (i%5 == 0)                      
