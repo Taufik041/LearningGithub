@@ -1,8 +1,6 @@
-// Write a program that takes a number as input and print the sum of its digits using do while loop.
-
 # include <stdio.h>
 
-int main()
+void main()
 {
     int n,r,sum=0;
     printf("Enter a number : ");
@@ -15,5 +13,5 @@ int main()
         
     } while (n>0);
     printf("Sum of its digits is %d.", sum);
-    return 0;
+
 }

@@ -1,10 +1,8 @@
-// Write a program that takes a number as input and checks whether it is positive, negative or zero.
-
 # include <stdio.h>
-int main()
+void main()
 {
     int n;
-    printf("Enter a number : ");
+    printf("Enter a number: ");
     scanf("%d", &n);
     if(n > 0)
     {

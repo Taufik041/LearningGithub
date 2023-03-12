@@ -1,7 +1,6 @@
-// Write a C program to enter two numbers and perform all arithmetic operations using switch case.
-
 # include <stdio.h>
-int main()
+void main()
+
 {
     int a,b,x = 0;
     char s;
@@ -63,6 +62,4 @@ int main()
     {
         printf("%d %c %d = %d", a, s, b, x);
     }
-
-
 }
