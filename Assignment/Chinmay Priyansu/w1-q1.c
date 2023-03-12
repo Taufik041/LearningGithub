@@ -8,16 +8,16 @@ int main()
     {
       if (i%3==0 && i%5==0)
       {
-        printf ("FIZZBUZZ");
+        printf ("FIZZBUZZ\n");
       }
        else if (i%3==0){
-        printf ("FIZZ");
+        printf ("FIZZ\n");
         }
        else if (i%5==0){
-        printf ("BUZZ");
+        printf ("BUZZ\n");
       }
         else{
-        printf ("%d",i);
+        printf ("%d \n",i);
         }
     }
     return 0;
