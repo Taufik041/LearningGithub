@@ -15,13 +15,7 @@ void arr_input(int *a, int n)
 }
 void arr_output_rev(int *a, int n)
 {
-    // int x = 1;
-    // for(int i = n-1; i >= 0; i--)
-    // {
-    //     printf("Element %d = %d\n",x,(*a));
-    //     a--;
-    //     x++;
-    // }
+    
     for(int i = n-1; i >= 0; i--)
     {
         if( i > 0)
