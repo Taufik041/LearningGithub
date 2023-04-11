@@ -1,0 +1,8 @@
+Size of Structure is equal to the product of (no of data members) and (maximum datatype size).
+For Example:
+struct abc
+{
+	int a;
+	char b;
+}
+Size = 2*(size of int) = 2*4 = 8 bytes
