@@ -1,0 +1,1 @@
+Solution: b. Structure members cannot be initialized at the time of declaration 
