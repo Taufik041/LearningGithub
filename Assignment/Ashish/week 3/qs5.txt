@@ -1,0 +1,7 @@
+5.)
+a. Ans- (ii)k is a pointer to a pointer to a pointer to a pointer to a char.
+b. Ans- (iii)6.
+
+6.) Ans- b. Structure members cannot be initialized at the time of declaration,
+
+7.) Ans- Size of a C Structure is 128 bytes. By using sizeof() operator.
