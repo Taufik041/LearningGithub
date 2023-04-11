@@ -3,7 +3,7 @@
    
 int main()
    {
-    char s[] = "tusar";  
+    char s[] = "amrit";  
     int i,j,l= strlen(s);  
     int freq[l];  
       for(i=0;i<strlen(s);i++) 
